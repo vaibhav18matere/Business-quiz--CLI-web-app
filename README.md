@@ -7,3 +7,4 @@ Title : Business Quiz
 
 Dependencies used:
 1. readline-sync
+2. Chalk
